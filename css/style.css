@@ -122,7 +122,7 @@ html {
 }
 .about .container p {
   color: #fcac23;
-  font-weight: 200;
+  font-weight: bold;
   max-width: 500px;
     margin: auto; 
 }
